@@ -1,8 +1,8 @@
 #!/bin/bash
 # Install sleepwatcher
 cd /tmp
-curl -O http://www.bernhard-baehr.de/sleepwatcher_2.2.tgz
-tar -zxvf sleepwatcher_2.2.tgz
+curl -O https://raw.githubusercontent.com/OpenFibers/sleepwatcher/master/sleepwatcher_2.2.tar
+tar -zxvf sleepwatcher_2.2.tar
 cd sleepwatcher_2.2
 sudo mkdir -p /usr/local/sbin /usr/local/share/man/man8
 sudo cp sleepwatcher /usr/local/sbin
