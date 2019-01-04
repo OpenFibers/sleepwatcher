@@ -4,7 +4,7 @@ Source from [https://www.bernhard-baehr.de](https://www.bernhard-baehr.de) [http
 
 It's not me who made this amazing app :~)
 
-And the auto fix script for bluetooth cannot connect at wakeup issue can be easily install by running:
+And the auto fix script for bluetooth cannot connect at wakeup issue [https://gist.github.com/Tyilo/c92684d277acb62272b5](https://gist.github.com/Tyilo/c92684d277acb62272b5) can be easily install by running:
 
 ```
 ```
