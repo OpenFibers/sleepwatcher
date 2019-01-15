@@ -9,3 +9,9 @@ And the auto fix script for bluetooth cannot connect at wakeup issue [https://gi
 ```
 sh -c "$(curl -sSL https://raw.githubusercontent.com/OpenFibers/sleepwatcher/master/auto-fix-wakeup-bluetooth.sh)"
 ```
+
+uninstall:
+
+```
+sh -c "$(curl -sSL https://raw.githubusercontent.com/OpenFibers/sleepwatcher/master/uninstall-sleepwatcher.sh)"
+```
